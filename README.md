@@ -1,17 +1,7 @@
-# goodboy-effect
+# About
+This application is a reproduction of [goodboy](https://www.goodboydigital.com/)'s FV animation.<br>
+It was also implemented based on a great [video](https://www.youtube.com/watch?v=0Zji936v3yg&t=3584s) by [Akella](https://twitter.com/akella).
 
-```
-gh repo clone nemutas/goodboy-effect
-```
+https://nemutas.github.io/goodboy-effect/
 
-```
-npm install
-```
-
-# using
-
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl)
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
+<img src='https://user-images.githubusercontent.com/46724121/215156598-5e09068b-7f7c-4713-9dc3-ddcd29e16c26.png' width='800' />
