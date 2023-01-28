@@ -1,6 +1,6 @@
 # About
 This application is a reproduction of [goodboy](https://www.goodboydigital.com/)'s FV animation.<br>
-It was also implemented based on a great [video](https://www.youtube.com/watch?v=0Zji936v3yg&t=3584s) by [Akella](https://twitter.com/akella).
+It was also implemented based on a great [video](https://www.youtube.com/watch?v=0Zji936v3yg&t) by [Akella](https://twitter.com/akella).
 
 https://nemutas.github.io/goodboy-effect/
 
