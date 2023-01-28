@@ -6,7 +6,7 @@ https://nemutas.github.io/goodboy-effect/
 
 <img src='https://user-images.githubusercontent.com/46724121/215156598-5e09068b-7f7c-4713-9dc3-ddcd29e16c26.png' width='800' />
 
-#References
+# References
 - [goodboy](https://www.goodboydigital.com/)
 - [#s3e8 ALL YOUR HTML, Recreating goodboydigital.com with three.js](https://www.youtube.com/live/0Zji936v3yg?feature=share)
 
